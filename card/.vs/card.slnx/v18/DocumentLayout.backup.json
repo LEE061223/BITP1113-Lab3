@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BITP1113\\Lab03\\card\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C91F21E3-DB85-45BA-8666-060F752C16C5}|card.vcxproj|D:\\BITP1113\\Lab03\\card\\card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C91F21E3-DB85-45BA-8666-060F752C16C5}|card.vcxproj|solutionrelative:card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "card.cpp",
+              "DocumentMoniker": "D:\\BITP1113\\Lab03\\card\\card.cpp",
+              "RelativeDocumentMoniker": "card.cpp",
+              "ToolTip": "D:\\BITP1113\\Lab03\\card\\card.cpp",
+              "RelativeToolTip": "card.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-15T13:40:11.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

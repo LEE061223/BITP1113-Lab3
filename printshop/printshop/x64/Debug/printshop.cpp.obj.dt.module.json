@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "printshop\\x64\\Debug\\printshop.obj",
+            "outputs": [
+                "printshop\\x64\\Debug\\printshop.cpp.obj.dt.module.json",
+                "printshop\\x64\\Debug\\printshop.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

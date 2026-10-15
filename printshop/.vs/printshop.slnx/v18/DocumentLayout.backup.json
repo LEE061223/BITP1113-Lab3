@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BITP1113\\Lab03\\printshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D99EC6-3DD0-4995-B620-7E99FB3ED35D}|printshop.vcxproj|D:\\BITP1113\\Lab03\\printshop\\printshop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4D99EC6-3DD0-4995-B620-7E99FB3ED35D}|printshop.vcxproj|solutionrelative:printshop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "printshop.cpp",
+              "DocumentMoniker": "D:\\BITP1113\\Lab03\\printshop\\printshop.cpp",
+              "RelativeDocumentMoniker": "printshop.cpp",
+              "ToolTip": "D:\\BITP1113\\Lab03\\printshop\\printshop.cpp",
+              "RelativeToolTip": "printshop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-15T14:45:22.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

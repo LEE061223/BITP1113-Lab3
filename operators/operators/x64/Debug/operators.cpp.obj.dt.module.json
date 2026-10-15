@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "operators\\x64\\Debug\\operators.obj",
+            "outputs": [
+                "operators\\x64\\Debug\\operators.cpp.obj.dt.module.json",
+                "operators\\x64\\Debug\\operators.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

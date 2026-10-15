@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BITP1113\\Lab03\\operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD67530F-F978-4AE3-A6E4-3988FB08159B}|operators.vcxproj|D:\\BITP1113\\Lab03\\operators\\operators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD67530F-F978-4AE3-A6E4-3988FB08159B}|operators.vcxproj|solutionrelative:operators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "operators.cpp",
+              "DocumentMoniker": "D:\\BITP1113\\Lab03\\operators\\operators.cpp",
+              "RelativeDocumentMoniker": "operators.cpp",
+              "ToolTip": "D:\\BITP1113\\Lab03\\operators\\operators.cpp",
+              "RelativeToolTip": "operators.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-15T14:41:06.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
